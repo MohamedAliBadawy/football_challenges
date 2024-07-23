@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335496915671",
+    "project_id": "football-challenges",
+    "storage_bucket": "football-challenges.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335496915671:android:b073d00346290dab0f9e92",
+        "android_client_info": {
+          "package_name": "com.badawy.football_challenges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335496915671-e8pbsfmocn5s357v7lekv2e76ijv3enj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.badawy.football_challenges",
+            "certificate_hash": "bb9a4a727e55463d4bf0d0b4f678a7c4776806b8"
+          }
+        },
+        {
+          "client_id": "335496915671-ru1rene31b4m91m1locvl5q70uskf34q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJUUfGfUAMWTgIu7Z43WMAZG7Bi7sFTTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335496915671-ru1rene31b4m91m1locvl5q70uskf34q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1357441394398917~3896648170"
+    }
+  ],
+  "configuration_version": "1"
+}
